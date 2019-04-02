@@ -1,0 +1,7 @@
+C:\Users\robin\source\repos\CréaSudoku\TP3_IA\obj\Debug\TP3_IA.csprojAssemblyReference.cache
+C:\Users\robin\source\repos\CréaSudoku\TP3_IA\obj\Debug\TP3_IA.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\CréaSudoku\TP3_IA\bin\Debug\TP3_IA.exe.config
+C:\Users\robin\source\repos\CréaSudoku\TP3_IA\bin\Debug\TP3_IA.exe
+C:\Users\robin\source\repos\CréaSudoku\TP3_IA\bin\Debug\TP3_IA.pdb
+C:\Users\robin\source\repos\CréaSudoku\TP3_IA\obj\Debug\TP3_IA.exe
+C:\Users\robin\source\repos\CréaSudoku\TP3_IA\obj\Debug\TP3_IA.pdb
